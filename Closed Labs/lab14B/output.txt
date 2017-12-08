@@ -1,0 +1,283 @@
+Please enter the input filename (or simply press return to use project4-inputA.tab)
+Importing patients from project4-inputB.tab ...
+Displaying all 2 entries in the list:
+Noah
+Sophia
+
+Olivia is not found in the list
+
+Displaying all 3 entries in the list:
+Olivia
+Aiden
+Emma
+
+There are no entries in the list to display
+
+Lucas is not found in the list
+
+Sophia is not found in the list
+
+Liam is not found in the list
+
+Displaying the single entry in the list:
+Lucas
+
+Displaying all 2 entries in the list:
+Jackson
+Lucas
+
+Displaying all 2 entries in the list:
+Jackson
+Lucas
+
+There are no entries in the list to display
+
+Emma is not found in the list
+
+Displaying the single entry in the list:
+Olivia
+
+There are no entries in the list to display
+
+Ava is not found in the list
+
+Ava is not found in the list
+
+There are no entries in the list to display
+
+Displaying the single entry in the list:
+Ava
+
+Olivia is not found in the list
+
+Lucas is not found in the list
+
+Displaying the single entry in the list:
+Liam
+
+Displaying the single entry in the list:
+Liam
+
+Mia is not found in the list
+
+Sophia is not found in the list
+
+Sophia is not found in the list
+
+Olivia is in the list
+
+Olivia is in the list
+
+Mia is in the list
+
+Jackson is not found in the list
+
+Sophia is not found in the list
+
+There are no entries in the list to display
+
+There are no entries in the list to display
+
+Displaying all 2 entries in the list:
+Sophia
+Mia
+
+There are no entries in the list to display
+
+Liam is not found in the list
+
+There are no entries in the list to display
+
+Displaying the single entry in the list:
+Liam
+
+Displaying all 2 entries in the list:
+Noah
+Lucas
+
+Sophia is not found in the list
+
+Sophia is not found in the list
+
+Displaying all 2 entries in the list:
+Noah
+Lucas
+
+Ava is not found in the list
+
+Liam is not found in the list
+
+Mia is not found in the list
+
+Aiden is not found in the list
+
+Noah is not found in the list
+
+Displaying all 2 entries in the list:
+Jackson
+Mia
+
+Displaying the single entry in the list:
+Aiden
+
+Emma is in the list
+
+Noah is not found in the list
+
+Displaying all 2 entries in the list:
+Jackson
+Aiden
+
+Olivia is not found in the list
+
+There are no entries in the list to display
+
+Displaying all 2 entries in the list:
+Mia
+Ava
+
+Olivia is not found in the list
+
+Displaying the single entry in the list:
+Mia
+
+There are no entries in the list to display
+
+Aiden is not found in the list
+
+Displaying the single entry in the list:
+Aiden
+
+There are no entries in the list to display
+
+Aiden is not found in the list
+
+Displaying all 5 entries in the list:
+Jackson
+Lucas
+Sophia
+Ava
+Emma
+
+Displaying all 3 entries in the list:
+Lucas
+Sophia
+Emma
+
+Displaying all 3 entries in the list:
+Lucas
+Sophia
+Emma
+
+There are no entries in the list to display
+
+There are no entries in the list to display
+
+Mia is not found in the list
+
+Displaying the single entry in the list:
+Olivia
+
+Displaying the single entry in the list:
+Olivia
+
+Jackson is not found in the list
+
+There are no entries in the list to display
+
+Displaying the single entry in the list:
+Ava
+
+Displaying all 2 entries in the list:
+Liam
+Olivia
+
+There are no entries in the list to display
+
+There are no entries in the list to display
+
+Liam is not found in the list
+
+Lucas is not found in the list
+
+Emma is in the list
+
+Displaying the single entry in the list:
+Liam
+
+Emma is not found in the list
+
+Mia is not found in the list
+
+Jackson is not found in the list
+
+There are no entries in the list to display
+
+Displaying the single entry in the list:
+Emma
+
+Liam is not found in the list
+
+Jackson is not found in the list
+
+There are no entries in the list to display
+
+Displaying the single entry in the list:
+Ava
+
+There are no entries in the list to display
+
+Displaying the single entry in the list:
+Ava
+
+Displaying all 2 entries in the list:
+Liam
+Ava
+
+Noah is not found in the list
+
+Ava is not found in the list
+
+Ava is not found in the list
+
+Sophia is not found in the list
+
+Lucas is not found in the list
+
+There are no entries in the list to display
+
+There are no entries in the list to display
+
+Mia is not found in the list
+
+Sophia is not found in the list
+
+Displaying all 4 entries in the list:
+Jackson
+Ava
+Noah
+Lucas
+
+Displaying all 5 entries in the list:
+Aiden
+Jackson
+Ava
+Noah
+Lucas
+
+There are no entries in the list to display
+
+Displaying all 3 entries in the list:
+Noah
+Sophia
+Ava
+
+Displaying all 3 entries in the list:
+Noah
+Sophia
+Ava
+
+Ava is not found in the list
+
+Liam is not found in the list
+

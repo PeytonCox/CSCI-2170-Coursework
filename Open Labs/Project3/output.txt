@@ -1,0 +1,10 @@
+Please enter a filename: You entered /nfshome/hcarroll/public_html/2170/private/projects/project3-testB.tab
+
+Insufficient funds ($0.00) (withdrawal of $999.99 not made)!
+Insufficient funds ($0.00) (withdrawal of $8.88 not made)!
+Balance (after deposit): $77.77
+Balance (after withdrawal): $11.11
+Insufficient funds ($11.11) (withdrawal of $55.55 not made)!
+Balance (after withdrawal): $10.11
+Balance (after withdrawal): $9.11
+All 3 withdrawals have already been made (withdrawal of $1.00 not made)!

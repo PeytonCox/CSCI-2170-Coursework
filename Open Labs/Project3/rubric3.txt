@@ -1,0 +1,26 @@
+Points       Item
+----------   --------------------------------------------------------------
+10 / 15   Documentation:
+             Header comment block at the beginning of each file with:
+             + Your full name
+             + Date(s) code was written
+             + Description
+             Comments explaining the role of each variable and major section of code
+             
+             Program solves the assigned problem using methods described in program description:
+8 /  8   + Global variable for the balance
+8 /  8   + Global const chars
+10 / 10   + Opens the specified file, verifies that it opened successfully and reads from the file and closes the stream
+12 / 12   + switch statement
+20 / 20   + Separate functions for processing the deposit and the withdrawal
+              (withdrawals only processed if there is available funds)
+10 / 10   + static variable to track the number of withdrawals
+15 / 15   + Correct output (and matches the format of the answer key)
+0 /  0   Program compiles without errors
+0 /  0   Program executes without crashing
+	     
+2 /  2   Completed rubric (estimates for each line, including hours spent)
+
+95 /100   Total
+
+3  Approximate number of hours spent

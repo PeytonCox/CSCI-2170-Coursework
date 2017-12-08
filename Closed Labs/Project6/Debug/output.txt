@@ -1,0 +1,80 @@
+Please enter the input filename (or simply press return to use project6-testA.tab)
+Importing instructions from project6-testA.tab ...
+Displaying 0 employees:
+
+Weekly payroll:
+
+
+Finding Sophia
+Unable to find Sophia
+
+Removing Sophia
+Unable to remove Sophia
+
+Adding employee Sophia
+
+Displaying 1 employees:
+	Sophia
+
+Weekly payroll:
+	Sophia $290.00
+
+
+Finding Sophia
+Sophia
+
+Unable to find Sophia
+
+Removing Sophia
+Unable to remove Sophia
+
+Displaying 0 employees:
+
+Finding Sophia
+Unable to find Sophia
+
+Removing Sophia
+Unable to remove Sophia
+
+Adding cashier Jackson
+
+Adding manager Emma
+
+Adding employee Aiden
+
+Adding cashier Olivia
+
+Adding manager Lucas
+
+Weekly payroll:
+	Jackson (Cashier hourly wage: $77.91)
+	Emma(Manager id: 123456789, weekly wage: $77.91)
+	Aiden $290.00
+	Olivia (Cashier hourly wage: $42.87)
+	Lucas(Manager id: 987654321, weekly wage: $42.87)
+
+
+Displaying 5 employees:
+	Jackson
+	Emma
+	Aiden
+	Olivia
+	Lucas
+
+Removing Jackson
+Unable to remove Jackson
+
+Removing Emma
+Unable to remove Emma
+
+Removing Aiden
+Unable to remove Aiden
+
+Removing Olivia
+Unable to remove Olivia
+
+Removing Lucas
+Unable to remove Lucas
+
+Displaying 0 employees:
+

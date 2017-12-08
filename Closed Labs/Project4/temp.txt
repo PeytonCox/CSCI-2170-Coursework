@@ -1,0 +1,38 @@
+	
+		Node *cur = rhs.head;
+		int count = 0;
+		
+		//if list is empty print and exit
+		if(cur == NULL){ os << "There are no entries in the list to display" << "\n" << "\n"; return os; }
+		
+		//check how many items are in the list
+		while(cur != NULL){
+			
+			cur = cur->next;
+			count++;
+			
+		}
+		
+		//reset cur to head
+		cur = rhs.head;
+		
+		//if 1 item
+		if(count == 1){ os << "Displaying the single entry in the list:" << "\n"; }
+		
+		//if more than 1 item
+		else{ os << "Displaying all " << count << " entries in the list:" << "\n"; }
+		
+		//go through the entire list and print the contents
+		while(cur != NULL){
+			
+			os << cur->name << "\n";
+			cur = cur->next;
+			
+		}
+		
+		//spacing
+		os << "\n";
+		
+		return os;
+		
+	};

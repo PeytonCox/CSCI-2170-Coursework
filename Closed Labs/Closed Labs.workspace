@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Closed Labs" Database="" Version="10.0.0">
+  <Project Name="Lab12A" Path="Lab12A/Lab12A.project" Active="No"/>
+  <Project Name="Lab13B" Path="Lab13B/Lab13B.project" Active="No"/>
+  <Project Name="lab14B" Path="lab14B/lab14B.project" Active="No"/>
+  <Project Name="lab16A" Path="lab16A/lab16A.project" Active="No"/>
+  <Project Name="exam2W2" Path="exam2W2/exam2W2.project" Active="No"/>
+  <Project Name="lab16B" Path="lab16B/lab16B.project" Active="No"/>
+  <Project Name="lab16C" Path="lab16C/lab16C.project" Active="No"/>
+  <Project Name="lab17A" Path="lab17A/lab17A.project" Active="No"/>
+  <Project Name="Project4" Path="Project4/Project4.project" Active="No"/>
+  <Project Name="Project6" Path="Project6/Project6.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Lab12A" ConfigName="Debug"/>
+      <Project Name="Lab13B" ConfigName="Debug"/>
+      <Project Name="lab14B" ConfigName="Debug"/>
+      <Project Name="lab16A" ConfigName="Debug"/>
+      <Project Name="exam2W2" ConfigName="Debug"/>
+      <Project Name="lab16B" ConfigName="Debug"/>
+      <Project Name="lab16C" ConfigName="Debug"/>
+      <Project Name="lab17A" ConfigName="Debug"/>
+      <Project Name="Project4" ConfigName="Debug"/>
+      <Project Name="Project6" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Lab12A" ConfigName="Release"/>
+      <Project Name="Lab13B" ConfigName="Release"/>
+      <Project Name="lab14B" ConfigName="Release"/>
+      <Project Name="lab16A" ConfigName="Release"/>
+      <Project Name="exam2W2" ConfigName="Release"/>
+      <Project Name="lab16B" ConfigName="Release"/>
+      <Project Name="lab16C" ConfigName="Release"/>
+      <Project Name="lab17A" ConfigName="Release"/>
+      <Project Name="Project4" ConfigName="Release"/>
+      <Project Name="Project6" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
